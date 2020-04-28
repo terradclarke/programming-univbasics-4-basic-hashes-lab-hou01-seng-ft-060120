@@ -3,7 +3,8 @@ def new_hash
 end
 
 def my_hash 
-  {:Terranie => 5}
+  { :Terranie => 5 
+}
 end
 
 def pioneer
